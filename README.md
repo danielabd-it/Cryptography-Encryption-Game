@@ -52,6 +52,7 @@ The project also makes use of:
 
 ## Usage
 
+```text
 Enter Your Message (Type 'Stop' to End The Games): garden
 Enter Your Message (Type 'Stop' to End The Games): zombies
 Enter Your Message (Type 'Stop' to End The Games): plants
@@ -95,6 +96,7 @@ Original Text: large lawnmower
 Encrypted Text: ozfsu ozkabcskf
 Decrypted Text: large lawnmower
 Cipher Used: Product
+```
 
 ## Disclaimer
 
